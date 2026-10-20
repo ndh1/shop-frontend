@@ -146,7 +146,7 @@ function App() {
       
       {/* Header */}
       <header style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: '2px solid #333', paddingBottom: '15px' }}>
-        <h1 style={{ margin: 0 }}>🛒 Cửa Hàng Trực Tuyến</h1>
+        <h1 style={{ margin: 0, fontSize:'40px'  }}>🛒 Cửa Hàng Trực Tuyến</h1>
         
         <div style={{ display: 'flex', alignItems: 'center', gap: '15px' }}>
           <span style={{ fontSize: '16px', background: '#eee', padding: '8px 15px', borderRadius: '20px', fontWeight: 'bold' }}>
